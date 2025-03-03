@@ -29,4 +29,13 @@
 * Which orders had the greatest number of items?
 * How many orders had more than 12 items?  
 
+### Objective 3: Analyze customer behavior 
+<a href = "https://github.com/MuguroNgugi/SQL-Restaurant-Analysis./blob/main/Objective%203%20Query%20File.sql"> Objective 3 SQL File </a>
+* Combine the menu items and the order details table into a single table
+* What is the least and the most ordered items?
+* What categories were they in?
+* What are the top 5 orders that spent the most money?
+* View the details of the spend orders. What details can you gather from the results
+* View the details of the top 5 highest spend orders. What insights can you gather from the results?
+
 
