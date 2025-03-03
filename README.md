@@ -7,3 +7,5 @@
 *	Explore the order details to get an idea of the data that been collected
 *	To use both tables to understand how customers are interacting to the new menu
 
+# Dataset Used
+<a href= "https://github.com/MuguroNgugi/SQL-Restaurant-Analysis./blob/main/create_restaurant_db.sql" > Dataset </a>
