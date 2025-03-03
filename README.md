@@ -46,4 +46,17 @@
 * Set up the databasse: if using Mysql, Open MySQL Workbech and run the provided  <a href = "https://github.com/MuguroNgugi/SQL-Restaurant-Analysis./blob/main/create_restaurant_db.sql"> SQL Script </a>
 * Run the SQL File Queries for insights provided on each objective.
 
+## Conclusion
+This SQL-based database project successfully analyzes customer spending habits, menu performance and revenue trends. This insight reveals that:
+* Italian cuisine generates the highest revenue, indicating strong customer preference
+* Asian and Mexican cuisine have moderate spending showing potential foe growth 
+* American cuisine has the lowest revenue which may require strategic improvements 
+
+## Recommendations
+* Expand high performing cuisine offerings: Since Italian cuisine is has the highest revenue, the restaurant can introduce new Italian dishes or combo deals
+* Increase marketing for Asians and Mexican dishes: Targeted promotions, discounts or bundle deals could boost sales for the cuisine
+* Revise American Cuisine Pricing and Menu: If demand is low, adjusting prices, improving menu variety or offering special promotions could enhance sales.
+* Monitor order trends over time: Continuous tracking of daily revenue trends can help in seasonal menu planning and dynamic pricing strategies.
+
+
 
