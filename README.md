@@ -12,10 +12,10 @@
 
 # Key questions & KPIs
 ## Objective 1:
-View the menu item and write a query to find the number of items on the menu
-What is the least and the most expensive item on the menu?
-How many Italian dishes are on the menu?
-What are the least and the most expensive Italian dishes on the menu?
-How many dishes are in each category?
-What is the average dish price within each category
+* View the menu item and write a query to find the number of items on the menu
+* What is the least and the most expensive item on the menu?
+* How many Italian dishes are on the menu?
+* What are the least and the most expensive Italian dishes on the menu?
+* How many dishes are in each category?
+* What is the average dish price within each category
 
