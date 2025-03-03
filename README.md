@@ -38,4 +38,12 @@
 * View the details of the spend orders. What details can you gather from the results?
 * View the details of the top 5 highest spend orders. What insights can you gather from the results?
 
+## Tech Stack
+SQL (MySQL) - Database management and queries
+DBMS (MySQL Workbench) – Database design and excecution
+
+## How to use
+* Set up the databasse: if using Mysql, Open MySQL Workbech and run the provided  <a href = "https://github.com/MuguroNgugi/SQL-Restaurant-Analysis./blob/main/create_restaurant_db.sql"> SQL Script </a>
+* Run the SQL File Queries for insights provided on each objective.
+
 
